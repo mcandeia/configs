@@ -2,3 +2,4 @@ whoAmI: service
 
 bookkeeper:
   service: x
+  test: y
