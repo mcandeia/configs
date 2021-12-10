@@ -1,5 +1,4 @@
 whoAmI: service
 
-anotherKey: d
-otherKey: c
-abc: e
+bookkeeper:
+  service: x
