@@ -1,0 +1,2 @@
+bookkeeper:
+  dynamoTable: ledgers

@@ -1,6 +1,0 @@
-whoAmI: service
-
-bookkeeper:
-  service: x
-  test: y
-  l: 10
