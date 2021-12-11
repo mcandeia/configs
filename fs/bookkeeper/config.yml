@@ -1,2 +1,2 @@
 bookkeeper:
-  dynamoTable: ledgers
+  dynamoTable: ledgers-3
